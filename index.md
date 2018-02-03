@@ -1,4 +1,15 @@
-![Image](2751116.gif)
+
+```java
+public static void main(string args[]){
+    system.out.println("hello world!");
+}
+```
+
+![Image](./imges/2751116.gif)
+
+[내가 공부한 것들](./study.html)
+
+
 
 ## Welcome to GitHub Pages
 
