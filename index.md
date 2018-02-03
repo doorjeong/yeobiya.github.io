@@ -5,7 +5,7 @@ public static void main(string args[]){
 }
 ```
 
-![Image](./imges/2751116.gif)
+![Image](./images/2751116.gif)
 
 [내가 공부한 것들](./study.html)
 
